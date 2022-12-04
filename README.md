@@ -13,4 +13,4 @@
 * Grid-layout
 * Позиционирование блоков и элементов
 
-## [Ссылка на GitHub Pages](https://maxim-lantsov.github.io/russian-travel/)
+## [Ссылка на GitHub Pages]()
