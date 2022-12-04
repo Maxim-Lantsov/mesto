@@ -3,12 +3,17 @@
     width: 32px;
     height: 32px;
     padding: 0;
+    background: none;
+    cursor: pointer;
     background-image: url(../../../image/Close\ Icon.svg);
     background-position: center;
     background-repeat: no-repeat;
-    color: pointer;
     border: none;
-    background-color: black;
     right: -40px;
     top: -40px;
+    transition: 0.2s linear;
+}
+
+.popup__close:hover {
+    opacity: 0.4;
 }

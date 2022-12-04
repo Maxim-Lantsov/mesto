@@ -1,4 +1,18 @@
 .content {
     max-width: 880px;
+    min-width: 282px;
     width: 100%;
+}
+
+@media screen and (max-width: 950px) {
+    .content {
+        width: 88%;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .content {
+        margin-right: 16px;
+        margin-left: 16px;
+    }
 }

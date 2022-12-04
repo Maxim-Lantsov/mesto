@@ -5,3 +5,11 @@
     align-items: center;
     color: #fff;
 }
+
+@media screen and (max-width: 740px) {
+    .profile {
+        margin-top: 42px;
+        display: flex;
+        flex-direction: column;
+    } 
+}

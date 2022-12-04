@@ -7,3 +7,11 @@
     line-height: 48px;
     grid-area: heading;
 }
+
+@media screen and (max-width:725px) {
+    .profile__heading {
+        font-size: 27px;
+        line-height: 33px;
+        text-align: center;
+    }
+}

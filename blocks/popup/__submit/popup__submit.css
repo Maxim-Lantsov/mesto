@@ -14,5 +14,11 @@
     font-weight: 400;
     font-style: normal;
     font-family: 'Inter',Arial,sans-serif;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.popup__submit:hover {
+    opacity: 0.8;
 }
 
