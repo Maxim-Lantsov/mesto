@@ -6,6 +6,9 @@
     font-weight: 400;
     padding-top: 5px;
     grid-area: subtitle;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
 }
 
 @media screen and (max-width:725px) {
