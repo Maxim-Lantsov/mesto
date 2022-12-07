@@ -12,3 +12,11 @@
     border: none;
     border-bottom: 1px solid #000000;
 }
+
+@media screen and (max-width: 920px) {
+    .popup__input {
+        width: 238px;
+        margin: 0 22px 30px 22px;
+        padding-bottom: 10px;        
+    }
+}

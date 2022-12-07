@@ -10,3 +10,9 @@
     margin: 0 auto;
     z-index: 2;
 }
+
+@media screen and (max-width: 950px) {
+    .popup__container {
+        width: 282px;
+    } 
+}
